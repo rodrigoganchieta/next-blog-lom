@@ -1,0 +1,21 @@
+{
+  "name": "Rodrigo Gonçalves de Anchieta",
+  "short_name": "RA",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#06092B",
+  "description": "Curso de JavaScript e TypeScript do Básico ao Avançado - Criado por Luiz Otávio Miranda, aluno Rodrigo Gonçalves de Anchieta",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#000000"
+}
