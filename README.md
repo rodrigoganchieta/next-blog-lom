@@ -1,30 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# JavaScript e TypeScript - Next Blog
 
-## Getting Started
+Projeto de blog desenvolvido com Next no curso de JavaScript e TypeScript do básico ao avançado
 
-First, run the development server:
+### Configurações:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- Instale e configure o Node.js
+- npm install
+- npm run dev --next
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Para mais detalhes entre em contato.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+# Sobre o Curso
 
-## Learn More
+**Curso:**
+<a href="https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/">JavaScript e TypeScript do básico ao avançado</a>
 
-To learn more about Next.js, take a look at the following resources:
+**Certificado:**
+https://www.udemy.com/certificate/UC-acf27d59-0c94-4bcb-a029-3f966f54a3b1/
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Contato
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/rodrigo-goncalves-de-anchieta/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rodrigoganchieta@gmail.com)](mailto:rodrigoganchieta@gmail.com)
